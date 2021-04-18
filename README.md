@@ -1,12 +1,10 @@
 # ATMController
  A simple ATM controller
 
-This project can be cloned by entering:
-git clone https://github.com/The-Shwin/ATMController.git
+This project can be cloned by using command:
+git clone https://github.com/guoluyouke123/ATM-Controller.git
 
   
- ### Running the Program
- This program can be executed by simply running:
- 
+ ### Running the Program 
  python controller.py 
  
